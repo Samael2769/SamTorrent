@@ -8,9 +8,9 @@ import (
 	"runtime"
 	"time"
 
-	"./client"
-	"./message"
-	"./peers"
+	"SamTorrent/client"
+	"SamTorrent/message"
+	"SamTorrent/peers"
 )
 
 // MaxBlockSize is the largest number of bytes a request can ask for

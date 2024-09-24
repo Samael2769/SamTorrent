@@ -6,12 +6,12 @@ import (
 	"net"
 	"time"
 
-	"./bitfield"
-	"./peers"
+	"SamTorrent/bitfield"
+	"SamTorrent/peers"
 
-	"./message"
+	"SamTorrent/message"
 
-	"./handshake"
+	"SamTorrent/handshake"
 )
 
 // A Client is a TCP connection with a peer

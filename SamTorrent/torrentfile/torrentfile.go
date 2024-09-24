@@ -8,7 +8,7 @@ import (
 	"os"
 
 	"github.com/jackpal/bencode-go"
-	"./p2p"
+	"SamTorrent/p2p"
 )
 
 // Port to listen on

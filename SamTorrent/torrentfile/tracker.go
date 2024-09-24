@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"./peers"
+	"SamTorrent/peers"
 
 	"github.com/jackpal/bencode-go"
 )
